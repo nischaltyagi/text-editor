@@ -1,2 +1,2 @@
-# text-editor
+# Text-editor
 Text Editor in Swing
